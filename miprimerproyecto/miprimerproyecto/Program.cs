@@ -10,6 +10,9 @@ namespace miprimerproyecto
     {
         static void Main(string[] args)
         {
+            //ejercicio de dos numeros introducidos por el usuario.
+            Console.Write("num 1:");
+            double num1 = double.Parse(Console.ReadLine());//"5" 
         }
     }
 }
