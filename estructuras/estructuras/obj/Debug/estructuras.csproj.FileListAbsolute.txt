@@ -1,0 +1,7 @@
+C:\Users\mauri\Desktop\progra1-2024\estructuras\estructuras\bin\Debug\estructuras.exe.config
+C:\Users\mauri\Desktop\progra1-2024\estructuras\estructuras\bin\Debug\estructuras.exe
+C:\Users\mauri\Desktop\progra1-2024\estructuras\estructuras\bin\Debug\estructuras.pdb
+C:\Users\mauri\Desktop\progra1-2024\estructuras\estructuras\obj\Debug\estructuras.csproj.AssemblyReference.cache
+C:\Users\mauri\Desktop\progra1-2024\estructuras\estructuras\obj\Debug\estructuras.csproj.CoreCompileInputs.cache
+C:\Users\mauri\Desktop\progra1-2024\estructuras\estructuras\obj\Debug\estructuras.exe
+C:\Users\mauri\Desktop\progra1-2024\estructuras\estructuras\obj\Debug\estructuras.pdb
