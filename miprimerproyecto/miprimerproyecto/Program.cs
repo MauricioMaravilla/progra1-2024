@@ -9,14 +9,15 @@ namespace miprimerproyecto
     class Program
     {
         static void Main(string[] args) {
-            Console.Write("num 1:");
-            int num1 = int.Parse(Console.ReadLine());
+            Console.Write("num1:");
+            sbyte num1 = sbyte.Parse(Console.ReadLine());
 
-            Console.Write("num 2:");
-            int num2 = int.Parse(Console.ReadLine());
+            Console.Write("num2:");
+            sbyte num2 = sbyte.Parse(Console.ReadLine());
 
-            int respuesta = num1 + num2;
-            Console.WriteLine("la suma de {0} + {1} = {2}", num1, num2, respuesta);
+            int suma = num1 + num2;
+            Console.WriteLine("la suma de {0} + {1} = {2}", num1, num2, suma);
+
 
             //pausa.
             Console.ReadLine();
