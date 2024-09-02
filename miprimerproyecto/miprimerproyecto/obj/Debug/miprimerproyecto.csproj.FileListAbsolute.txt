@@ -1,0 +1,7 @@
+C:\Users\mauri\Desktop\progra1-2024\miprimerproyecto\miprimerproyecto\bin\Debug\miprimerproyecto.exe.config
+C:\Users\mauri\Desktop\progra1-2024\miprimerproyecto\miprimerproyecto\bin\Debug\miprimerproyecto.exe
+C:\Users\mauri\Desktop\progra1-2024\miprimerproyecto\miprimerproyecto\bin\Debug\miprimerproyecto.pdb
+C:\Users\mauri\Desktop\progra1-2024\miprimerproyecto\miprimerproyecto\obj\Debug\miprimerproyecto.csproj.AssemblyReference.cache
+C:\Users\mauri\Desktop\progra1-2024\miprimerproyecto\miprimerproyecto\obj\Debug\miprimerproyecto.csproj.CoreCompileInputs.cache
+C:\Users\mauri\Desktop\progra1-2024\miprimerproyecto\miprimerproyecto\obj\Debug\miprimerproyecto.exe
+C:\Users\mauri\Desktop\progra1-2024\miprimerproyecto\miprimerproyecto\obj\Debug\miprimerproyecto.pdb
