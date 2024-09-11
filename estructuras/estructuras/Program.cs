@@ -9,18 +9,25 @@ namespace estructuras
     class Program
     {
         static void Main(string[] args) {
-            //estructuras de control.
-            //1. if. ejercicio. pedir al usuario la edad si es mayor de edad que le diga bienvenido.
-            Console.Write("edad:");
-            int edad = int.Parse(Console.ReadLine());
+            Console.Write(" Num1 : ");​
+            sbyte num1 = sbyte.Parse(Console.ReadLine());​​​   
+            Boolean comprobar = true;
+            Console.WriteLine(" El valor es: {0} ", comprobar);
 
-            if (edad >= 18) {
-                Console.WriteLine("Bienvenido al mundo de la responsabilidades");
-            } else {
-                Console.WriteLine("eres un adolescente");
-            }
+            Console.WriteLine(" Num2 : ");​​
+            sbyte num2 = sbyte.Parse(Console.ReadLine());​​​   
+            Console.WriteLine(" Nombre : ");
+            string nombre = Console.ReadLine();​​  
 
-            //pausa.
+            int suma = num1 + num2;
+
+            Console.WriteLine(" La suma de {0} + {1} = {2} ", num1, num2, suma);
+            Console.WriteLine(" Hola {0} bienvenido ", nombre);
+
+            DateTime fechaActual = new DateTime();
+            fechaActual = DateTime.Now;
+            Console.WriteLine(" La fecha actual es: {0} ", fechaActual);
+            //Pausa.
             Console.ReadLine();
         }
     }

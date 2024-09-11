@@ -1,0 +1,7 @@
+C:\Users\mauri\Desktop\progra1-2024\parcial1\parcial1\bin\Debug\parcial1.exe.config
+C:\Users\mauri\Desktop\progra1-2024\parcial1\parcial1\bin\Debug\parcial1.exe
+C:\Users\mauri\Desktop\progra1-2024\parcial1\parcial1\bin\Debug\parcial1.pdb
+C:\Users\mauri\Desktop\progra1-2024\parcial1\parcial1\obj\Debug\parcial1.csproj.AssemblyReference.cache
+C:\Users\mauri\Desktop\progra1-2024\parcial1\parcial1\obj\Debug\parcial1.csproj.CoreCompileInputs.cache
+C:\Users\mauri\Desktop\progra1-2024\parcial1\parcial1\obj\Debug\parcial1.exe
+C:\Users\mauri\Desktop\progra1-2024\parcial1\parcial1\obj\Debug\parcial1.pdb
