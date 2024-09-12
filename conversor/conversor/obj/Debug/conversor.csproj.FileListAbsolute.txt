@@ -1,0 +1,2 @@
+C:\Users\mauri\Desktop\progra1-2024\conversor\conversor\obj\Debug\conversor.csproj.AssemblyReference.cache
+C:\Users\mauri\Desktop\progra1-2024\conversor\conversor\obj\Debug\conversor.csproj.CoreCompileInputs.cache

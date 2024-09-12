@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace parcial1
+namespace parcial
 {
     class Program
     {
