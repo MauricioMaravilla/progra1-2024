@@ -1,0 +1,13 @@
+C:\Users\mauri\Desktop\progra1-2024\academica\academica\bin\Debug\db_academica.mdf
+C:\Users\mauri\Desktop\progra1-2024\academica\academica\bin\Debug\db_academica_log.ldf
+C:\Users\mauri\Desktop\progra1-2024\academica\academica\bin\Debug\academica.exe.config
+C:\Users\mauri\Desktop\progra1-2024\academica\academica\bin\Debug\academica.exe
+C:\Users\mauri\Desktop\progra1-2024\academica\academica\bin\Debug\academica.pdb
+C:\Users\mauri\Desktop\progra1-2024\academica\academica\obj\Debug\academica.csproj.AssemblyReference.cache
+C:\Users\mauri\Desktop\progra1-2024\academica\academica\obj\Debug\academica.Properties.Resources.resources
+C:\Users\mauri\Desktop\progra1-2024\academica\academica\obj\Debug\academica.csproj.GenerateResource.cache
+C:\Users\mauri\Desktop\progra1-2024\academica\academica\obj\Debug\academica.csproj.CoreCompileInputs.cache
+C:\Users\mauri\Desktop\progra1-2024\academica\academica\obj\Debug\academica.exe
+C:\Users\mauri\Desktop\progra1-2024\academica\academica\obj\Debug\academica.pdb
+C:\Users\mauri\Desktop\progra1-2024\academica\academica\obj\Debug\academica.Form1.resources
+C:\Users\mauri\Desktop\progra1-2024\academica\academica\obj\Debug\academica.Form2.resources
